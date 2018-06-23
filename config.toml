@@ -1,0 +1,10 @@
+baseURL = "https://prisoner7.me/"
+languageCode = "ru"
+DefaultContentLanguage = "ru"
+title = "Prisoner Seven"
+theme = "beautifulhugo"
+#theme = "hyde-hyde"
+
+[Params]
+homeTitle = "Заметки"
+subtitle = "Open source, фантазии, разное"
