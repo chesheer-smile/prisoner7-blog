@@ -1,4 +1,4 @@
-baseURL = "https://prisoner7.me/"
+#baseURL = "https://prisoner7.me/"
 languageCode = "ru"
 DefaultContentLanguage = "ru"
 title = "Prisoner Seven"
