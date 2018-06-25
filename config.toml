@@ -10,3 +10,13 @@ copyright = "Copyleft - All rights are reserved for God"
 [Params]
 homeTitle = "Заметки"
 subtitle = "Open source, фантазии, разное"
+
+[author]
+    name = ""
+    github = ""
+    gitlab = ""
+    linkedin = ""
+    facebook = ""
+    twitter = ""
+    instagram = ""
+    email = "prisoner7@protonmail.com"
