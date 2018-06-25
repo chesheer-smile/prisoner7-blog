@@ -2,8 +2,10 @@
 languageCode = "ru"
 DefaultContentLanguage = "ru"
 title = "Prisoner Seven"
-theme = "beautifulhugo"
+#theme = "beautifulhugo"
 #theme = "hyde-hyde"
+theme = "kiera"
+copyright = "Copyleft - All rights are reserved for God"
 
 [Params]
 homeTitle = "Заметки"
