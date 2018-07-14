@@ -13,7 +13,9 @@
     <header>
       <h1>
                 <a href="{{ relURL "/" }}">{{ .Site.Title | markdownify }}</a>
+
             </h1>
+            <h3>{{ .Site.Params.Subtitle }}</h3>
 
       <ul id="social-media">
         {{ if .Site.Author.twitter }}
