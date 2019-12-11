@@ -15,8 +15,7 @@ description = 'Случайные заметки об Open Source, прочит�
 avatar = 'avatar.png'
 
 [[params.social]]
-name = 'email'
-email = "prisoner7@protonmail.com"
+
 
 [author]
     name = ""
