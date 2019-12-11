@@ -4,12 +4,19 @@ DefaultContentLanguage = "ru"
 title = "Prisoner Seven"
 #theme = "beautifulhugo"
 #theme = "hyde-hyde"
-theme = "kiera"
+theme = "m10c"
 copyright = "Copyleft - All rights are reserved for God"
 
 [Params]
 homeTitle = "Заметки"
 subtitle = "Open source, фантазии, разное"
+author = 'Prisoner7'
+description = 'Случайные заметки об Open Source, прочитанных книгах, просмотренных фильмах и продуманных мыслях'
+avatar = 'avatar.png'
+
+[[params.social]]
+name = 'email'
+email = "prisoner7@protonmail.com"
 
 [author]
     name = ""
@@ -19,4 +26,4 @@ subtitle = "Open source, фантазии, разное"
     facebook = ""
     twitter = ""
     instagram = ""
-    email = "prisoner7@protonmail.com"
+
